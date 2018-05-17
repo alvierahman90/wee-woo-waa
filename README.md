@@ -29,5 +29,5 @@ Decimal | Ternary | WeWoWa | Characters
 23      | 212     | aoa    | x
 24      | 220     | aae    | y
 25      | 221     | aao    | z
-26      | 222     | aaa    | <SPACE>
+26      | 222     | aaa    | SPACE
 
